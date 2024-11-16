@@ -1,4 +1,7 @@
 body{
     margin: 0;
     background-color: green;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 5;
+    border: 1;
 }
